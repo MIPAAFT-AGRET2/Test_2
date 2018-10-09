@@ -28,4 +28,5 @@ pinco pallo
 linea 24
 linea 25
 
-linea 30
+linea 31
+linea 32
