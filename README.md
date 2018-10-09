@@ -27,7 +27,5 @@ linea 23
 pinco pallo
 linea 24
 linea 25
-<<<<<<< HEAD
+
 linea 30
-=======
->>>>>>> 78f41604a0117e9e4cbc97076beee16b46d04ecc
